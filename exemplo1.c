@@ -1,8 +1,9 @@
 int main() {
 	
 	printf("Mackenzie - FCI \n");
-	printf("Algoritmos e Programacao");
-	printf("Prog. II \n");
+	printf("Ciência da Computação\n");
+	printf("Algoritmos e Programação II\n");
+	
 
 	system("pause");
 	return 0;
